@@ -1,0 +1,27 @@
+#side{
+  background-color:red;
+  position: absolute;
+  top: 100px;
+  right: 200px;
+  width: 280px;
+  height: 220px;
+  z-index: 2;
+}
+#anno{
+  background-color: aqua;
+  position: absolute;
+  top: 10px;
+  left: 100px;
+  width: 400px;
+  height: 200px;
+  z-index: 5;
+}
+
+.aaa{
+  background-color:bisque;
+  top: 20px;
+  left: 100px;
+  width: 400px;
+  height: 200px;
+
+}

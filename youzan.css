@@ -1,0 +1,57 @@
+ .header{
+  width: 100%;
+  min-width: 1100px;
+  height: 50px;
+  position: relative;
+  background: #ffffff;
+  border-bottom: 1px solid #ededed;
+  box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.1);
+  z-index: 200;
+  transition: all 0.5s ease-in;
+}
+
+ .phptpl-header{
+  width: 100%;
+  min-width: 1100px;
+  height: auto;
+  position: relative;
+  background: #ffffff;
+  border-bottom: 1px solid #ededed;
+  box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.1);
+  z-index: 200;
+  transition: all 0.5s ease-in;
+ }
+ .logo {
+  display: inline-block;
+  width: 72px;
+  height: 25px;
+  margin-top: 22.5px;
+  background-size: 72px 25px;
+  background-image: url(//img.yzcdn.cn/public_files/2016/11/29/8fc4cd6….png);
+}
+ p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+ }
+ .nav-list {
+   float: right;
+
+ }
+ .nav-list li {
+  float: left;
+  padding: 0px 20px;
+  display: inline-block;
+  height: 70px;
+  line-height: 70px;
+  
+ }
+ .nav-link-container {
+  display: inline-block;
+  width: 60px;
+  margin-left: 10px;
+  margin-bottom: -1px;
+}
+ 
